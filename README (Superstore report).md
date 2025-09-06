@@ -238,10 +238,6 @@ ORDER BY avg_delivery_days;
   * Loss-making products.
 *  Case Study Report (this README).
 
----
+
 
  This project highlights how **analytics can uncover hidden profit drainers** and provide actionable recommendations for business growth.
-
-```
-
-
