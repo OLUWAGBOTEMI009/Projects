@@ -4,7 +4,7 @@
 This project explores the **Superstore dataset** to understand why profitability remains low despite strong sales.  
 Using **SQL for data wrangling and exploratory analysis**, and **Power BI for visualization**, I identified key drivers of profit and loss, focusing on **discount practices, product performance, customer retention, and shipping efficiency**.  
 
----
+
 
 ##  Workflow  
 
@@ -52,9 +52,9 @@ SET shipping_duration = "Ship Date" - "Order Date",
     profit_margin = ROUND(profit / Sales, 4);
 ````
 
- Result: Clean dataset ready for analysis.
+ 
 
----
+
 
 ## 📊 Insights & Findings
 
@@ -68,7 +68,7 @@ Even with **\$2.30M in total sales**, overall profit is only **\$286.4K** (margi
 | Total Profit      | \$286.40K |
 | Profit Margin (%) | 12%       |
 
----
+
 
 ### 2. Impact of Discounts
 
