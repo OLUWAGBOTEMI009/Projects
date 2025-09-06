@@ -91,7 +91,8 @@ ORDER BY Discount;
 ```
 
 📉 *Visualization:*
-![Discount vs Profit](d28a2502-5eb3-4847-a2ec-f10c1812eb68.png)
+[Profit Vs Discount]<img width="770" height="252" alt="image" src="https://github.com/user-attachments/assets/cc3d4ca3-a0b0-41eb-adbe-b9db44e87d04" />
+
 
 
 ---
