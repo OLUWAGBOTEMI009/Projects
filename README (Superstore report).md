@@ -141,10 +141,9 @@ ORDER BY total_profit DESC;
 ```
 
 📊 *Visualization:*
-![Profit by State]<img width="1460" height="362" alt="image" src="https://github.com/user-attachments/assets/551255c0-0c22-4bc1-9786-3c1ff1849831" />
+[Profit by State]<img width="1560" height="462" alt="image" src="https://github.com/user-attachments/assets/551255c0-0c22-4bc1-9786-3c1ff1849831" />
 
 
----
 
 ### 5. Customer Retention
 
@@ -169,7 +168,7 @@ FROM customer_orders;
 | Avg Revenue per Customer (\$) | 1,893 |
 | Avg Profit per Customer (\$)  | 236   |
 
----
+
 
 ### 6. Shipping Efficiency
 
@@ -195,9 +194,9 @@ ORDER BY avg_delivery_days;
 | First Class    | 2.2               | 1,200  | 18.6            |
 | Same Day       | 0.9               | 900    | 10.2            |
 
----
 
-## ✅ Recommendations
+
+##  Recommendations
 
 1. **Discount Policy**
 
@@ -218,30 +217,30 @@ ORDER BY avg_delivery_days;
    * Promote **Standard Class** for cost savings.
    * Reserve premium shipping for high-value customers.
 
----
 
-## 🚀 Tech Stack
+
+##  Tech Stack
 
 * **SQL (PostgreSQL)** → Data wrangling & analysis.
 * **Power BI** → Interactive dashboard & storytelling.
 * **GitHub** → Version control & documentation.
 
----
 
-## 📂 Deliverables
 
-* ✅ SQL scripts for cleaning, transformations, and cohort analysis.
-* ✅ Power BI Dashboard:
+##  Deliverables
+
+*  SQL scripts for cleaning, transformations, and cohort analysis.
+*  Power BI Dashboard:
 
   * KPI summary (Sales, Profit, Margin).
   * Discount vs Profit scatter.
   * Profit by State.
   * Loss-making products.
-* ✅ Case Study Report (this README).
+*  Case Study Report (this README).
 
 ---
 
-💡 **Takeaway:** This project highlights how **analytics can uncover hidden profit drainers** and provide actionable recommendations for business growth.
+ This project highlights how **analytics can uncover hidden profit drainers** and provide actionable recommendations for business growth.
 
 ```
 
