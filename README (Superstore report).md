@@ -95,8 +95,6 @@ ORDER BY Discount;
 
 
 
----
-
 ### 3. Unprofitable Products
 
 Certain products consistently generated **negative profit**, dragging down margins.
@@ -123,7 +121,7 @@ LIMIT 5;
 
 ⚠️ These products are **revenue drivers but not profit contributors**.
 
----
+
 
 ### 4. Profitability by Region & State
 
@@ -143,7 +141,8 @@ ORDER BY total_profit DESC;
 ```
 
 📊 *Visualization:*
-![Profit by State](d28a2502-5eb3-4847-a2ec-f10c1812eb68.png)
+![Profit by State]<img width="1460" height="362" alt="image" src="https://github.com/user-attachments/assets/551255c0-0c22-4bc1-9786-3c1ff1849831" />
+
 
 ---
 
