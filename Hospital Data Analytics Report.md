@@ -158,7 +158,7 @@ This Power BI dashboard provides a comprehensive analysis of hospital operations
 - Improve diagnostic clarity (33% inconclusive results)
 - Standardize medication protocols
 
-##Data Sources & Methodology
+## Data Sources & Methodology
 
 **Data Period**: 2019-2024  
 **Total Records**: 55,495 admissions  
