@@ -17,7 +17,7 @@ This Power BI dashboard provides a comprehensive analysis of hospital operations
 ##  Admissions Analysis
 
 ### Monthly Admission Trends (2020-2024)
-<img width="785" height="535" alt="image" src="https://github.com/user-attachments/assets/b1e8a0a8-13fc-413d-b73f-0ec10f957ad2" />
+<img width="985" height="435" alt="image" src="https://github.com/user-attachments/assets/b1e8a0a8-13fc-413d-b73f-0ec10f957ad2" />
 
 ### Admission Type Distribution
 
