@@ -4,9 +4,6 @@
 
 This Power BI dashboard provides a comprehensive analysis of hospital operations, covering **55,495 admissions** with **$1.42 billion** in total billing. The report reveals key insights into patient demographics, admission trends, financial performance, and operational efficiency.
 
-![Power BI Dashboard](https://img.shields.io/badge/Power_BI-Visualized-important)
-![Data Analysis](https://img.shields.io/badge/Data_Analysis-55K_Records-blue)
-![Time Period](https://img.shields.io/badge/Period-2019--2024-success)
 
 ##  Key Performance Indicators
 
