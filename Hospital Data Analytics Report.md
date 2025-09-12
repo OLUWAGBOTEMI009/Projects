@@ -1,6 +1,6 @@
 # Hospital Data Analytics Dashboard
 
-## 📊 Executive Summary
+##  Executive Summary
 
 This Power BI dashboard provides a comprehensive analysis of hospital operations, covering **55,495 admissions** with **$1.42 billion** in total billing. The report reveals key insights into patient demographics, admission trends, financial performance, and operational efficiency.
 
@@ -8,7 +8,7 @@ This Power BI dashboard provides a comprehensive analysis of hospital operations
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-55K_Records-blue)
 ![Time Period](https://img.shields.io/badge/Period-2019--2024-success)
 
-## 📈 Key Performance Indicators
+##  Key Performance Indicators
 
 | Metric | Value |
 | :--- | :--- |
@@ -17,17 +17,10 @@ This Power BI dashboard provides a comprehensive analysis of hospital operations
 | **Average Billing Amount** | $25,540 |
 | **Average Length of Stay** | 15.51 days |
 
-## 🎯 Admissions Analysis
+##  Admissions Analysis
 
 ### Monthly Admission Trends (2020-2024)
-
-| Year | Jan | Feb | Mar | Apr | May | Jun | Jul | Aug | Sep | Oct | Nov | Dec |
-| :--- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- | :-- |
-| **2020** | 800 | 850 | 780 | 820 | 900 | 850 | 800 | 830 | 880 | 920 | 870 | 820 |
-| **2021** | 830 | 880 | 810 | 860 | 940 | 890 | 840 | 870 | 910 | 950 | 900 | 850 |
-| **2022** | 850 | 900 | 830 | 890 | 970 | 920 | 870 | 900 | 940 | 980 | 930 | 880 |
-| **2023** | 880 | 930 | 860 | 920 | 990 | 950 | 900 | 930 | 970 | 1010 | 960 | 910 |
-| **2024** | 900 | 950 | 880 | 940 | 1010 | 970 | 920 | 950 | 990 | 1030 | 980 | 930 |
+[Monthly Admission Tend](<img width="585" height="335" alt="image" src="https://github.com/user-attachments/assets/b1e8a0a8-13fc-413d-b73f-0ec10f957ad2" />)
 
 ### Admission Type Distribution
 
@@ -37,7 +30,9 @@ This Power BI dashboard provides a comprehensive analysis of hospital operations
 | Urgent | 18,580 | 33.47% |
 | Emergency | 18,270 | 32.92% |
 
-## 🏥 Medical Condition Analysis
+[Admission Type Distribution](<img width="630" height="211" alt="image" src="https://github.com/user-attachments/assets/f88fbcf1-e212-495a-acda-830c22826709" />)
+
+##  Medical Condition Analysis
 
 ### Average Length of Stay by Condition
 
@@ -61,7 +56,7 @@ This Power BI dashboard provides a comprehensive analysis of hospital operations
 | Arthritis | $19,000 | $18,000 | $18,500 |
 | Asthma | $16,000 | $15,500 | $15,800 |
 
-## 💰 Financial Analysis
+##  Financial Analysis
 
 ### Total Billing Amount by Year
 
@@ -84,7 +79,7 @@ This Power BI dashboard provides a comprehensive analysis of hospital operations
 | Medicare | 13% | $184.6M |
 | Astha | 7% | $99.4M |
 
-## 🔬 Test Results Analysis
+##  Test Results Analysis
 
 ### Overall Test Results Distribution
 
@@ -105,7 +100,7 @@ This Power BI dashboard provides a comprehensive analysis of hospital operations
 | Hypertension | 3,142 | 3,011 | 3,091 | 9,244 |
 | Obesity | 3,057 | 3,132 | 3,042 | 9,231 |
 
-## 💊 Medication Analysis
+##  Medication Analysis
 
 ### Top Medications Prescribed
 
@@ -117,7 +112,7 @@ This Power BI dashboard provides a comprehensive analysis of hospital operations
 | Paracetamol | 23,000 |
 | Penicillin | 19,500 |
 
-## 👥 Demographic Analysis
+##  Demographic Analysis
 
 ### Age Group Distribution
 
@@ -130,7 +125,7 @@ This Power BI dashboard provides a comprehensive analysis of hospital operations
 | 18-24 | 5% | 2,775 |
 | Under 18 | 3% | 1,665 |
 
-## 🏨 Operational Metrics
+##  Operational Metrics
 
 ### Room Utilization Analysis
 
@@ -141,7 +136,7 @@ This Power BI dashboard provides a comprehensive analysis of hospital operations
 | 300-399 | Low | Underutilized |
 | 400-500 | Very Low | Minimal usage |
 
-## 📋 Key Insights & Recommendations
+##  Key Insights & Recommendations
 
 ### Strategic Insights
 1. **Revenue Growth**: Steady 200% increase in billing from 2019-2024
@@ -166,7 +161,7 @@ This Power BI dashboard provides a comprehensive analysis of hospital operations
 - Improve diagnostic clarity (33% inconclusive results)
 - Standardize medication protocols
 
-## 📁 Data Sources & Methodology
+##Data Sources & Methodology
 
 **Data Period**: 2019-2024  
 **Total Records**: 55,495 admissions  
