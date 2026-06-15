@@ -1,38 +1,24 @@
-# Telco Customer Churn Analysis
+# Data Analytics Portfolio
 
-## Project Goal
-The goal of this project is to analyze customer churn for a telecommunications company, identify key drivers of churn, and provide actionable recommendations to reduce churn. The analysis focuses on understanding how contract type, tenure, internet service type, and monthly charges impact customer retention.
+This repository contains a collection of data analysis and business intelligence projects completed as part of my learning journey in data analytics. Each project focuses on extracting insights, cleaning data, and presenting findings to support decision‑making.
 
-## Dataset Source
-The dataset used is the **IBM Telco Customer Churn** dataset, publicly available on Kaggle and IBM’s GitHub repository.  
-File: `WA_Fn-UseC_-Telco-Customer-Churn.csv`  
-It contains 7,043 customer records with 21 features including demographics, account information, services subscribed, and churn status.
+## Projects Included
 
-## Key Findings
+- **Telco Customer Churn Analysis:** Exploratory data analysis in Python (Pandas, Matplotlib, Seaborn) to identify key drivers of customer churn and provide actionable retention recommendations.
 
-1. **Contract type is the strongest predictor of churn**  
-   - Month‑to‑month contracts have a churn rate of **42.7%**, compared to 11.3% for one‑year contracts and 2.8% for two‑year contracts.  
-   *Recommendation:* Offer month‑to‑month customers incentives to switch to annual contracts.
+- **Superstore Profitability:**  A Power BI dashboard and SQL queries analyzing sales, profit, and product performance using the Superstore dataset.
 
-2. **Early tenure is the danger zone**  
-   - **55.5%** of churned customers left within the first 12 months.  
-   *Recommendation:* Launch an onboarding retention program for customers in months 1–6.
+- **Cafe Sales Data Cleaning:** Python notebook and markdown documentation demonstrating data cleaning and preprocessing steps for a cafe sales dataset.
 
-3. **Fiber optic + month‑to‑month = highest risk segment**  
-   - This segment has a churn rate of **54.6%** and an average monthly charge of $87.02, which is lower than longer‑term fiber optic customers.  
-   *Recommendation:* Investigate service quality or price sensitivity; proactively reach out before month 3.
+- **Hospital Data Analytics Report:** Markdown report summarizing key metrics and insights from hospital data.
 
-## Best Chart
+- **Glory Mini Project (Module 2)**: Intermediate‑level Python notebook covering data manipulation and analysis techniques.
 
-Below is the histogram showing the distribution of customer tenure by churn status. It clearly illustrates that churned customers (orange) are heavily concentrated in the first 12 months.
+## Tools & Technologies
+- Python (Pandas, Matplotlib, Seaborn)
+- Power BI
+- SQL
+- Jupyter Notebook
+- Markdown
 
-<img width="1200" height="750" alt="churn_by_tenure" src="https://github.com/user-attachments/assets/99fd7980-6845-4824-87f5-e0bbfcc52d64" />
-
-
-
-
-## Business Impact Estimate
-Reducing churn by 5 percentage points in the highest‑risk segment (month‑to‑month + fiber optic) would retain approximately 106 additional customers, generating roughly **$111,000** in annual revenue (based on $87.02 average monthly charge × 12).
-
-## Usage
-Run the Jupyter notebook `Telco Customer Churn Analysis.ipynb` to reproduce the analysis, visualizations, and findings.
+Each file includes its own detailed documentation. Feel free to explore the notebooks, reports, and dashboards to see the analysis process and outcomes.
